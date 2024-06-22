@@ -1,5 +1,5 @@
 [project]
-name = "wocecolormap_emma138"
+name = "wocecolormap"
 version = "0.0.1"
 authors = [
   { name="Emma Holtzman", email="holtzmaner@gmail.com" },
@@ -15,4 +15,3 @@ classifiers = [
 
 [project.urls]
 Homepage = "https://github.com/EES-3506-5506/Code_share"
-Issues = "https://github.com/EES-3506-5506/Code_share"
