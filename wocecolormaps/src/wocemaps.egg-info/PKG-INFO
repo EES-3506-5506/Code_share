@@ -3,7 +3,7 @@ Name: wocemaps
 Version: 0.0.1
 Summary: Color maps from the World Ocean Circulation Experiment translated to be used in Python
 Author-email: Emma Holtzman <holtzmaner@gmail.com>, "Dr. Rebecca Beadling" <rebecca.beadling@temple.edu>
-Project-URL: Homepage, https://github.com/EES-3506-5506/Code_share/tree/main
+Project-URL: Homepage, https://github.com/occ-research/occ_package
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
